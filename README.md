@@ -11,11 +11,6 @@ A responsive company profile website for **ZIMEIRA TECH**, a local technology se
 ### Website Preview
 
 ![ZIMEIRA TECH Website Preview](https://zimeira.duazreklame.my.id/opengraph-image)
-
-### Portfolio Section
-
-![ZIMEIRA TECH Portfolio Screenshot](public/uploads/portfolio/screenshot-2024-06-23-005524-58969913-4047-4258-bb9f-1ef48458c51d.png)
-
 ## Overview
 
 ZIMEIRA TECH Website is a modern business landing page designed to present computer services, graphic design services, and website development services in a clean and accessible way.
