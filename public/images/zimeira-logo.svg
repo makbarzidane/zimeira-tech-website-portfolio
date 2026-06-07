@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">ZIMEIRA TECH Logo</title>
+  <desc id="desc">Logo dummy ZIMEIRA TECH dengan monogram ZT.</desc>
+  <defs>
+    <linearGradient id="logo-bg" x1="14" y1="8" x2="86" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061826"/>
+      <stop offset=".55" stop-color="#06352F"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="logo-line" x1="18" y1="26" x2="78" y2="74" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9FFF0"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="24" fill="url(#logo-bg)"/>
+  <path d="M20 27h38L34 59h24" fill="none" stroke="url(#logo-line)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M63 27h13M69.5 27v42" fill="none" stroke="#ECFDF5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="73" r="4" fill="#A7F3D0"/>
+  <circle cx="78" cy="73" r="4" fill="#A7F3D0"/>
+</svg>

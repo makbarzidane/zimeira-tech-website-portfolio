@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Visual dummy ruang kerja teknisi ZIMEIRA TECH</title>
+  <desc id="desc">Ilustrasi dummy meja teknisi dengan laptop, monitor website, dan perangkat komputer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="96" y1="48" x2="850" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#082F49"/>
+      <stop offset=".48" stop-color="#064E3B"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="212" y1="136" x2="773" y2="541" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#D1FAE5"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="250" y1="170" x2="657" y2="431" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ECFEFF"/>
+      <stop offset="1" stop-color="#D9F99D"/>
+    </linearGradient>
+    <filter id="shadow" x="80" y="80" width="820" height="600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="30" stdDeviation="34" flood-color="#020617" flood-opacity=".38"/>
+    </filter>
+  </defs>
+  <rect width="960" height="720" fill="url(#bg)"/>
+  <path d="M0 520c120-88 258-116 410-86 153 30 280 32 392-38 71-44 120-93 158-147v471H0Z" fill="#ECFDF5" opacity=".09"/>
+  <circle cx="775" cy="118" r="88" fill="#34D399" opacity=".17"/>
+  <circle cx="158" cy="585" r="108" fill="#22D3EE" opacity=".11"/>
+  <g filter="url(#shadow)">
+    <rect x="166" y="120" width="668" height="454" rx="42" fill="url(#panel)"/>
+    <rect x="211" y="157" width="424" height="276" rx="24" fill="#0F172A"/>
+    <rect x="236" y="184" width="374" height="206" rx="16" fill="url(#screen)"/>
+    <rect x="266" y="214" width="132" height="16" rx="8" fill="#064E3B" opacity=".88"/>
+    <rect x="266" y="250" width="245" height="12" rx="6" fill="#0F766E" opacity=".28"/>
+    <rect x="266" y="278" width="202" height="12" rx="6" fill="#0F766E" opacity=".22"/>
+    <rect x="266" y="318" width="112" height="42" rx="13" fill="#10B981"/>
+    <rect x="400" y="318" width="132" height="42" rx="13" fill="#0F172A" opacity=".82"/>
+    <path d="M315 433h154l19 54H296Z" fill="#334155"/>
+    <rect x="276" y="484" width="232" height="22" rx="11" fill="#1E293B"/>
+    <rect x="663" y="190" width="118" height="186" rx="28" fill="#0F172A"/>
+    <rect x="680" y="220" width="84" height="112" rx="14" fill="#10B981" opacity=".86"/>
+    <circle cx="722" cy="352" r="10" fill="#D1FAE5"/>
+    <rect x="606" y="430" width="166" height="74" rx="22" fill="#E0F2FE"/>
+    <path d="M639 467h100" stroke="#0F766E" stroke-width="12" stroke-linecap="round"/>
+    <path d="M650 504l-36 58M727 504l36 58" stroke="#475569" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g opacity=".88">
+    <rect x="85" y="76" width="132" height="48" rx="16" fill="#ECFDF5" opacity=".16"/>
+    <path d="M114 100h70" stroke="#A7F3D0" stroke-width="9" stroke-linecap="round"/>
+    <rect x="746" y="590" width="116" height="42" rx="14" fill="#ECFDF5" opacity=".14"/>
+    <path d="M774 611h58" stroke="#BBF7D0" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

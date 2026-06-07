@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dummy visual layanan desain</title>
+  <desc id="desc">Ilustrasi logo, banner, poster, flyer, dan kebutuhan desain visual.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="44" x2="577" y2="395" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset=".5" stop-color="#155E75"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="187" y1="75" x2="417" y2="328" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E0F2FE"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="34" fill="url(#bg)"/>
+  <circle cx="105" cy="88" r="62" fill="#5EEAD4" opacity=".13"/>
+  <circle cx="530" cy="328" r="84" fill="#F0FDFA" opacity=".1"/>
+  <rect x="160" y="62" width="238" height="300" rx="28" fill="url(#paper)"/>
+  <rect x="190" y="96" width="122" height="22" rx="11" fill="#0F172A"/>
+  <rect x="190" y="140" width="168" height="12" rx="6" fill="#0F766E" opacity=".22"/>
+  <rect x="190" y="164" width="112" height="12" rx="6" fill="#0F766E" opacity=".18"/>
+  <rect x="190" y="206" width="168" height="92" rx="22" fill="#10B981"/>
+  <path d="M227 256h94" stroke="#ECFDF5" stroke-width="18" stroke-linecap="round"/>
+  <rect x="374" y="146" width="132" height="164" rx="26" fill="#ECFDF5"/>
+  <circle cx="440" cy="210" r="42" fill="#0F766E"/>
+  <path d="M415 236l40-75 40 75" fill="none" stroke="#A7F3D0" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="414" y="268" width="80" height="12" rx="6" fill="#0F766E" opacity=".25"/>
+  <path d="M123 324h115" stroke="#A7F3D0" stroke-width="14" stroke-linecap="round" opacity=".8"/>
+</svg>

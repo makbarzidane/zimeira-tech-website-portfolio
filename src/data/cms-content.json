@@ -1,0 +1,207 @@
+{
+  "company": {
+    "name": "ZIMEIRA TECH",
+    "logoUrl": "/uploads/brand/zimeira-tech-1f25a890-8955-41f1-a2eb-e1b13d7e5c3d.png",
+    "tagline": "Solusi teknologi praktis untuk komputer, desain, dan website usaha Anda.",
+    "description": "ZIMEIRA TECH membantu masyarakat Kota Pagaralam dan sekitarnya mendapatkan layanan teknologi yang mudah dipahami, rapi, dan sesuai kebutuhan. Mulai dari instalasi Windows resmi, perawatan laptop/PC, rakit PC, desain promosi, sampai pembuatan website untuk usaha dan portofolio.",
+    "email": "akbarzidane12@gmail.com",
+    "phone": "+62 898-8733-187",
+    "address": "Kota Pagaralam dan sekitarnya, Indonesia",
+    "founded": "2024",
+    "businessHours": "Setiap hari pukul 07.00 - 20.00 WIB",
+    "instagram": "zimeira_tech",
+    "tiktok": "zimeira_tech",
+    "plannedDomain": "https://zimeira.duazreklame.my.id",
+    "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1646.0591471314635!2d103.2561475!3d-4.0273253!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e376b8f4b2d70bd%3A0x5ed8a9f6cf8368e1!2s2Z%20Reklame%20%26%20Cutting%20Sticker!5e1!3m2!1sen!2sid!4v1768458204448!5m2!1sen!2sid"
+  },
+  "stats": [
+    {
+      "value": "12+",
+      "label": "Jenis layanan"
+    },
+    {
+      "value": "Gratis",
+      "label": "Konsultasi awal"
+    },
+    {
+      "value": "Lokal",
+      "label": "Pagaralam & sekitar"
+    },
+    {
+      "value": "Fleksibel",
+      "label": "Sesuai budget"
+    }
+  ],
+  "services": [
+    {
+      "title": "Instalasi Windows Lisensi Resmi",
+      "category": "Komputer",
+      "description": "Pemasangan Windows dengan lisensi resmi, pengaturan awal, driver dasar, dan pengecekan agar perangkat siap dipakai."
+    },
+    {
+      "title": "Instalasi Aplikasi",
+      "category": "Komputer",
+      "description": "Bantuan instal aplikasi kerja, belajar, desain, utilitas, dan kebutuhan harian sesuai perangkat yang digunakan."
+    },
+    {
+      "title": "Cleaning Laptop/PC",
+      "category": "Perawatan",
+      "description": "Pembersihan perangkat dari debu dan kotoran untuk membantu menjaga suhu, performa, dan kenyamanan penggunaan."
+    },
+    {
+      "title": "Repasta Laptop/PC",
+      "category": "Perawatan",
+      "description": "Penggantian thermal paste untuk membantu mengurangi panas berlebih pada laptop atau PC."
+    },
+    {
+      "title": "Rakit PC Sesuai Budget",
+      "category": "Hardware",
+      "description": "Konsultasi komponen dan perakitan PC untuk sekolah, kerja, desain, editing, gaming ringan, atau kebutuhan usaha."
+    },
+    {
+      "title": "Penggantian Part Laptop/PC",
+      "category": "Hardware",
+      "description": "Bantuan penggantian RAM, storage, keyboard, baterai, kipas, dan komponen lain sesuai kondisi perangkat."
+    },
+    {
+      "title": "Download & Print Tugas",
+      "category": "Kebutuhan Harian",
+      "description": "Layanan download file, cetak tugas, dokumen, dan kebutuhan administrasi dengan proses yang praktis."
+    },
+    {
+      "title": "Website Usaha",
+      "category": "Website",
+      "description": "Website company profile, landing page, dan halaman informasi usaha agar bisnis lebih mudah ditemukan dan dipercaya."
+    },
+    {
+      "title": "Website Portfolio",
+      "category": "Website",
+      "description": "Website portofolio untuk pelajar, mahasiswa, kreator, freelancer, dan profesional yang ingin tampil lebih meyakinkan."
+    },
+    {
+      "title": "Optimasi SEO Dasar",
+      "category": "Website",
+      "description": "Pengaturan struktur halaman, judul, deskripsi, dan konten dasar agar website lebih siap tampil di mesin pencari."
+    },
+    {
+      "title": "Maintenance Website",
+      "category": "Website",
+      "description": "Perawatan website, update konten, pengecekan tampilan, dan penyesuaian kecil setelah website berjalan."
+    },
+    {
+      "title": "Logo, Banner, Poster, Flyer",
+      "category": "Desain",
+      "description": "Desain visual untuk kebutuhan promosi usaha, event, media sosial, banner, poster, flyer, dan identitas sederhana."
+    }
+  ],
+  "portfolio": [
+    {
+      "client": "UMKM Kuliner Pagaralam",
+      "project": "Landing Page Promosi Usaha",
+      "image": "/uploads/portfolio/screenshot-2024-06-23-005524-58969913-4047-4258-bb9f-1ef48458c51d.png",
+      "description": "Konsep website sederhana berisi profil usaha, daftar menu, lokasi, dan tombol kontak agar calon pelanggan lebih mudah menghubungi.",
+      "result": "Informasi usaha lebih rapi dan siap dibagikan lewat WhatsApp."
+    },
+    {
+      "client": "Pelajar & Mahasiswa",
+      "project": "Website Portfolio Pribadi",
+      "image": "/images/service-design.svg",
+      "description": "Template portofolio berbasis website untuk menampilkan biodata, karya, pengalaman, dan kontak secara profesional.",
+      "result": "Portofolio terlihat lebih meyakinkan untuk tugas, magang, dan freelance."
+    },
+    {
+      "client": "Pengguna Laptop/PC Lokal",
+      "project": "Perawatan dan Upgrade Perangkat",
+      "image": "/images/service-computer.svg",
+      "description": "Pembersihan perangkat, repasta, instalasi aplikasi, dan rekomendasi upgrade sesuai kebutuhan serta budget.",
+      "result": "Perangkat lebih nyaman digunakan untuk belajar, kerja, dan aktivitas harian."
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "title": "Konsultasi awal gratis",
+      "description": "Anda bisa bertanya dulu sebelum menentukan layanan, sehingga keputusan lebih jelas dan sesuai kebutuhan."
+    },
+    {
+      "title": "Bahasa mudah dipahami",
+      "description": "Penjelasan dibuat sederhana tanpa istilah teknis yang membingungkan, terutama untuk pengguna non-teknis."
+    },
+    {
+      "title": "Sesuai kebutuhan dan budget",
+      "description": "Rekomendasi layanan disesuaikan dengan kondisi perangkat, tujuan penggunaan, dan anggaran yang tersedia."
+    },
+    {
+      "title": "Layanan komputer sampai digital",
+      "description": "Satu tempat untuk kebutuhan instalasi, perawatan, rakit PC, desain promosi, hingga website usaha."
+    },
+    {
+      "title": "Fokus area Pagaralam",
+      "description": "Layanan dirancang untuk membantu masyarakat Kota Pagaralam dan sekitarnya mendapatkan solusi teknologi yang dekat."
+    },
+    {
+      "title": "Hasil rapi dan siap dipakai",
+      "description": "Setiap pekerjaan diarahkan agar perangkat, desain, atau website bisa langsung digunakan dengan nyaman."
+    }
+  ],
+  "policies": [
+    {
+      "title": "Jam operasional",
+      "description": "Layanan konsultasi dan pemesanan dibuka setiap hari pukul 07.00 - 20.00 WIB. Di luar jam tersebut, pesan tetap bisa dikirim dan akan dibalas saat operasional."
+    },
+    {
+      "title": "Antar jemput perangkat",
+      "description": "Antar jemput laptop atau PC dapat dibantu untuk area tertentu di Pagaralam dan sekitarnya. Biaya ongkir disesuaikan jarak dan dikonfirmasi sebelum penjemputan."
+    },
+    {
+      "title": "DP website",
+      "description": "Untuk project website, DP disarankan 50% setelah ruang lingkup dan estimasi disetujui. Pelunasan dilakukan sebelum website diserahkan atau dipublish."
+    },
+    {
+      "title": "DP desain",
+      "description": "Untuk desain logo, banner, poster, atau flyer, DP disarankan 50% sebelum pengerjaan. File final diberikan setelah pelunasan dan revisi yang disepakati selesai."
+    },
+    {
+      "title": "Revisi dan kebutuhan project",
+      "description": "Pengerjaan berjalan lebih cepat jika materi seperti teks, foto, logo, warna brand, dan referensi sudah disiapkan. Revisi mengikuti kesepakatan awal agar hasil tetap rapi."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Laptop saya jadi lebih nyaman dipakai setelah dibersihkan dan diatur ulang. Penjelasannya juga mudah dimengerti.",
+      "name": "Andi Saputra",
+      "role": "Mahasiswa, Pagaralam"
+    },
+    {
+      "quote": "Saya dibantu membuat konsep website usaha yang sederhana tapi terlihat profesional. Cocok untuk promosi lewat WhatsApp.",
+      "name": "Rina Marlina",
+      "role": "Pemilik UMKM Kuliner"
+    },
+    {
+      "quote": "Konsultasi rakit PC-nya jelas, pilihan part disesuaikan dengan budget, dan tidak dipaksa ambil yang mahal.",
+      "name": "Dimas Pratama",
+      "role": "Pengguna PC Rumahan"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Apakah konsultasi di ZIMEIRA TECH gratis?",
+      "answer": "Ya, konsultasi awal gratis. Anda bisa menjelaskan kebutuhan, kondisi perangkat, atau rencana website terlebih dahulu sebelum menentukan layanan."
+    },
+    {
+      "question": "Apakah melayani area luar Kota Pagaralam?",
+      "answer": "Fokus utama kami adalah Kota Pagaralam dan sekitarnya. Untuk layanan digital seperti desain dan website, konsultasi bisa dilakukan secara online."
+    },
+    {
+      "question": "Apakah bisa rakit PC sesuai budget?",
+      "answer": "Bisa. Kami bantu rekomendasikan komponen sesuai kebutuhan, misalnya untuk belajar, kerja, desain, editing ringan, atau gaming."
+    },
+    {
+      "question": "Website apa saja yang bisa dibuat?",
+      "answer": "Kami bisa membantu membuat website company profile, landing page, website portfolio, website usaha, optimasi SEO dasar, dan maintenance website."
+    },
+    {
+      "question": "Apakah bisa sekalian buat logo atau banner?",
+      "answer": "Bisa. ZIMEIRA TECH juga menyediakan desain logo, banner, poster, flyer, dan materi promosi sederhana untuk kebutuhan usaha atau event."
+    }
+  ]
+}
