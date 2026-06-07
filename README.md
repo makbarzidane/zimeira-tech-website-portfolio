@@ -85,6 +85,6 @@ BLOB_READ_WRITE_TOKEN=your-vercel-blob-token
 
 ## Author
 
-Akbar Zidane
+M.Akbar Zidane
 
 Copyright (c) 2026 Akbar Zidane. All rights reserved.
