@@ -1,27 +1,37 @@
 # ZIMEIRA TECH Website
 
-Public portfolio snapshot untuk website company profile **ZIMEIRA TECH**.
+A responsive company profile website for **ZIMEIRA TECH**, a local technology service business based in Pagaralam, Indonesia.
 
-Live website:
+## Live Website
 
 [https://zimeira.duazreklame.my.id](https://zimeira.duazreklame.my.id)
 
-![ZIMEIRA TECH Preview](https://zimeira.duazreklame.my.id/opengraph-image)
+## Screenshots
 
-## Tentang Project
+### Website Preview
 
-ZIMEIRA TECH Website adalah company profile responsif untuk layanan komputer, desain, dan pembuatan website di Kota Pagaralam dan sekitarnya. Project ini dibuat sebagai portfolio pribadi untuk menunjukkan implementasi landing page bisnis, SEO dasar, halaman legal, integrasi kontak, dan CMS admin sederhana.
+![ZIMEIRA TECH Website Preview](https://zimeira.duazreklame.my.id/opengraph-image)
 
-## Fitur Utama
+### Portfolio Section
 
-- Landing page company profile responsif.
-- Section hero, tentang perusahaan, layanan, portfolio, keunggulan, FAQ, info layanan, dan kontak.
-- Tombol kontak cepat ke WhatsApp, email, Instagram, dan TikTok.
-- CMS admin pribadi untuk pengelolaan konten.
-- Upload logo dan gambar portfolio.
-- Halaman legal: kebijakan privasi, syarat layanan, dan disclaimer.
-- SEO dasar: metadata, canonical URL, sitemap, robots, dan Open Graph image.
-- Integrasi Vercel Analytics, Speed Insights, dan Vercel Blob.
+![ZIMEIRA TECH Portfolio Screenshot](public/uploads/portfolio/screenshot-2024-06-23-005524-58969913-4047-4258-bb9f-1ef48458c51d.png)
+
+## Overview
+
+ZIMEIRA TECH Website is a modern business landing page designed to present computer services, graphic design services, and website development services in a clean and accessible way.
+
+The project focuses on responsive layout, clear service information, fast contact access, basic SEO, legal pages, and a simple private CMS for content management.
+
+## Key Features
+
+- Responsive company profile landing page.
+- Hero, about, services, portfolio, benefits, FAQ, service information, and contact sections.
+- Quick contact buttons for WhatsApp, email, Instagram, and TikTok.
+- Private CMS dashboard for content management.
+- Logo and portfolio image uploads.
+- Legal pages for privacy policy, terms of service, and disclaimer.
+- Basic SEO with metadata, canonical URL, sitemap, robots, and Open Graph image.
+- Vercel Analytics, Speed Insights, and Vercel Blob integration.
 
 ## Tech Stack
 
@@ -36,42 +46,53 @@ ZIMEIRA TECH Website adalah company profile responsif untuk layanan komputer, de
 - Vercel Blob
 - ESLint
 
-## Development
+## Project Structure
 
-Install dependency:
+```txt
+src/
+  app/              Pages, API routes, metadata, sitemap, and robots
+  components/       Website and admin UI components
+  data/             Default content and local CMS data
+  lib/              Auth, CMS, storage, branding, and site helpers
+public/
+  images/           Website visual assets
+  uploads/          Local portfolio upload assets
+```
+
+## Development
 
 ```bash
 npm install
-```
-
-Jalankan development server:
-
-```bash
 npm run dev
 ```
 
-Buka:
+Local URL:
 
 ```txt
 http://localhost:3000
 ```
 
-## Environment
+## Available Scripts
 
-Contoh variable tersedia di `.env.example`.
+```bash
+npm run dev
+npm run lint
+npm run build
+npm run start
+```
+
+## Environment Example
 
 ```env
 NEXT_PUBLIC_SITE_URL=https://zimeira.duazreklame.my.id
 CMS_ADMIN_USERNAME=admin
-CMS_ADMIN_PASSCODE=ganti-dengan-password-admin-yang-kuat
-CMS_AUTH_SECRET=ganti-dengan-secret-random-panjang-minimal-32-karakter
-BLOB_READ_WRITE_TOKEN=vercel_blob_read_write_token_dari_dashboard
+CMS_ADMIN_PASSCODE=your-admin-passcode
+CMS_AUTH_SECRET=your-random-auth-secret
+BLOB_READ_WRITE_TOKEN=your-vercel-blob-token
 ```
 
-Jangan commit `.env.local` atau credential asli.
+## Author
 
-## Catatan
-
-Repository ini adalah versi portfolio public. Versi development/production penuh disimpan di repository private.
+Akbar Zidane
 
 Copyright (c) 2026 Akbar Zidane. All rights reserved.
